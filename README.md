@@ -54,11 +54,11 @@ The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to
 ## **🔗 How to Use This Repository**  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/FroggyTalk-PowerBI-Analysis.git
-   cd FroggyTalk-PowerBI-Analysis
+   git clone https://github.com/IsraelVow/System-Performance-User-Engagement-Analysis.git
+   cd PerformanceAnalysis
    ```
 2. **Review the Power BI (.pbix) file**  
-   - Open `FroggyTalk_Analysis.pbix` in Power BI Desktop.  
+   - Open `Performance Analysis.pbix` in Power BI Desktop.  
    - Explore visuals and adjust filters dynamically.  
 
 3. **Integrate Real-World Data**  
@@ -91,8 +91,8 @@ The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to
 I’m open to **freelance opportunities, collaborations, and consulting** in **Power BI, Data Analytics, and Business Intelligence**.  
 
 📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-📂 **Portfolio:** [Your Website or GitHub Portfolio](https://yourportfolio.com)  
+🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/israeljosiah/)  
+📂 **Portfolio:** [My Website](https://www.datascienceportfol.io/IsraelJosiah)  
 
 ---
 
