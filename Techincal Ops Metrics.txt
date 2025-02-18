@@ -1,0 +1,97 @@
+MTBF - Helps us ascertain the reliability of a system or product
+it is commonly used in the context of warranties, maintenance planning and product development
+we calculate this kpi by summing the total number of hours the system was in operation
+and then count the number of downtime or failures 
+
+operation time/failures over a period of time  = Average time it takes between failures
+
+this helps to prepare for maintenance before/when failure happens 
+can help manufacturers/engineers plan for maintenance or replacement
+
+MTTR is the average time it takes to repair a system or product after it has failed.
+MTTR is used to measure the reliability of a system or product from a repair standpoint. how proactive the maintenance/repair process is
+MTTR typically includes the time it takes to notify maintenance teams, allow equipment to cool down for repair, fix the issue, reassemble any relevant equipment or systems and test before restarting production. 
+
+The goal of MTTR is to minimize the downtime caused by failures and reduce the costs associated with repairs. 
+
+Total downtime/Total number of failures over a specific time = Average time it takes to resolve an issue
+
+For example, if over the last year, a system failed 5 times, resulting in 10 total hours of downtime (including repair time), the MTTR would be: 10 hours/5 repairs = 2 hours
+
+This means that on average, it takes two hours to repair the system after a failure occurs.
+
+MTTR is useful in determining the efficiency of maintenance operations and can help identify areas where improvements can be made. 
+
+MTBF is a measure of how long a system or product is expected to operate before it fails, and it is used to plan for maintenance or replacement. MTTR is a measure of how long it takes to repair a system or product after it fails, and it is used to minimize downtime and reduce repair costs (by reviewing maintenance processes).
+
+Improving MTBF and MTTR to reduce downtime can be a complex process that involves identifying and addressing the root causes of system failures, optimizing maintenance operations and implementing improvements in design and manufacturing processes.
+
+Today, large organizations use computerized maintenance management systems (CMMSs) to help them manage their maintenance processes. A CMMS typically offers features like work order management, preventative maintenance scheduling, inventory management, asset management and reporting. 
+
+IBM® Maximo® is enterprise asset management software that includes comprehensive CMMS capabilities. Maximo is a single, integrated cloud-based platform that uses artificial intelligence (AI), IoT and analytics to optimize performance, extend the lifecycle of assets and reduce the costs of outages. A related tool, IBM Instana® Observability, offers full-stack observability, with the goal of helping users optimize and democratize incident prevention. 
+
+Both of these products will give you the visibility into your assets and operations that you’ll need to make smarter, data-driven decisions, ultimately resulting in fewer breakdowns and less downtime.
+
+
+Metrics to track
+
+1. system performance 
+- Tracking Service Availability (Uptime)
+- Mean Time to Resolve (MTTR)
+- Mean Time Between Failures (MTBF)
+
+2. VoIP Quality Metrics
+- Mean Opinion Score (MOS)
+- Round Trip Time (RTT)
+- Packet Loss Rate
+
+3. User Engagement Metrics
+- Daily Active Users (DAJ) / Monthly Active Users (MAU)
+- User Growth Rate
+- Churn Rate
+
+4. Customer Support Metrics
+- First Calll Resolution (FCR)
+- Customer Satisfaction Score (CSAT)
+
+
+1. System Performance Metrics:
+
+Service Availability (Uptime): Measures the percentage of time the VoIP service is operational. High availability is crucial for user satisfaction. 
+NINJAONE
+
+Mean Time to Resolve (MTTR): Average time taken to resolve system issues. Lower MTTR indicates efficient problem-solving processes. 
+NINJAONE
+
+Mean Time Between Failures (MTBF): Average time between system failures. A higher MTBF signifies more reliable system performance. 
+NINJAONE
+
+2. VoIP Quality Metrics:
+
+Mean Opinion Score (MOS): Assesses the overall quality of voice calls as perceived by users, typically on a scale from 1 (poor) to 5 (excellent). Maintaining a high MOS is essential for user satisfaction. 
+SITE24X7
+
+Round Trip Time (RTT): Measures the time taken for a signal to travel from the source to the destination and back. Lower RTT contributes to better call quality. 
+SITE24X7
+
+Packet Loss Rate: Percentage of data packets lost during transmission. Minimizing packet loss is vital for maintaining call clarity. 
+SITE24X7
+
+3. User Engagement Metrics:
+
+Daily Active Users (DAU) / Monthly Active Users (MAU): Indicates the number of unique users engaging with the app daily or monthly. Tracking these metrics helps assess user retention and growth. 
+UXCAM
+
+User Growth Rate: Measures the rate at which the user base is expanding. A consistent growth rate reflects successful user acquisition strategies. 
+UXCAM
+
+Churn Rate: Percentage of users who discontinue using the app over a specific period. Understanding churn helps in developing strategies to improve user retention. 
+UXCAM
+
+4. Customer Support Metrics:
+
+First Call Resolution (FCR): Percentage of support queries resolved during the initial contact. High FCR rates indicate effective customer support. 
+NINJAONE
+
+Customer Satisfaction Score (CSAT): Measures user satisfaction with the app and support services. High CSAT scores reflect positive user experiences. 
+NINJAONE
