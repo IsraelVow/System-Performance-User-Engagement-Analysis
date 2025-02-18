@@ -96,7 +96,7 @@ The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to
 ## **📬 Contact & Collaboration**  
 I’m open to **freelance opportunities, collaborations, and consulting** in **Power BI, Data Analytics, and Business Intelligence**.  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** Israeljvow@gmail.com  
 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/israeljosiah/)  
 📂 **Portfolio:** [My Website](https://www.datascienceportfol.io/IsraelJosiah)  
 
