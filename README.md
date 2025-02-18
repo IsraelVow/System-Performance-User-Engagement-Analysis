@@ -11,6 +11,13 @@ This project delivers a **comprehensive Power BI dashboard** that provides real-
 
 The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to seamlessly integrate with real-world datasets from **AWS CloudWatch, CRM logs, and VoIP call records**, making it scalable for any data-driven organization.  
 
+## **📊 Dashboard Preview**  
+[Click to view dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiNDA0YmU1MmQtMWQ0NC00MjRmLThkZTktOTAyOGMxMWY2ZTlhIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
+
+<div style="display: flex; flex-direction: row;">
+  <img src="System-Performance-User-Engagement-Analysis/Media Files
+/Dashboard.mp4" alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
 ---
 
 ## **🎯 Key Features & Metrics**  
